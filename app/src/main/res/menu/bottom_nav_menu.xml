@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
@@ -21,4 +22,29 @@
         android:icon="@android:drawable/ic_menu_edit"
         android:title="@string/title_profile" />
 
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_communicity" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_match"/>
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@android:drawable/stat_notify_chat"
+        android:title="@string/title_chat" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="@string/title_profile" />
+
+>>>>>>> fa9b5e380bdd0e95d3cee1f6c858c22ae92ad7c1
 </menu>

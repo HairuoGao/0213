@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="TabLayoutTextStyle" parent="TextAppearance.Design.Tab">
         <item name="android:textSize">12dp</item>
     </style>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TabLayoutTextStyle" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">12dp</item>
+    </style>
+>>>>>>> fa9b5e380bdd0e95d3cee1f6c858c22ae92ad7c1
 </resources>
